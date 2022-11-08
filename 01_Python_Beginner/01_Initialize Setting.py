@@ -7,23 +7,23 @@
 # cd C:\pip
 # python setup.py install
 
-# Check python version in cmd
-# py -3 --version
-# Check python version in VS Code
-# py -0
+
+
+# Update pip
+## C:\Users\Zehui.Bai\AppData\Local\Programs\Python\Python311\python.exe -m pip install --upgrade pip
 
 # Install the packages, Start the new Terminal in VS Code
 # Windows 
 ## py -m pip install pandas
+## py -m pip install --upgrade pip
+## py -m pip install ipykernel
+## py -m pip install matplotlib
 
 # Other Options
 ## pip install pandas
 ## pip3 install pandas
 ## python -m pip install pandas
  
-
-
-
 
  
 #################################################
