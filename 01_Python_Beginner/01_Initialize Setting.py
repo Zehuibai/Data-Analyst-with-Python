@@ -7,13 +7,22 @@
 # cd C:\pip
 # python setup.py install
 
-# pip install pandas
-# pip3 install pandas
-# python -m pip install pandas
-# sudo pip install pandas
-
-# Check python version
+# Check python version in cmd
 # py -3 --version
+# Check python version in VS Code
+# py -0
+
+# Install the packages, Start the new Terminal in VS Code
+# Windows 
+## py -m pip install pandas
+
+# Other Options
+## pip install pandas
+## pip3 install pandas
+## python -m pip install pandas
+ 
+
+
 
 
  
