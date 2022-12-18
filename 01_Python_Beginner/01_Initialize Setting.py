@@ -18,6 +18,7 @@
 ## py -m pip install --upgrade pip
 ## py -m pip install ipykernel
 ## py -m pip install matplotlib
+## py -m pip install seaborn
 
 # Other Options
 ## pip install pandas
