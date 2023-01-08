@@ -18,13 +18,13 @@
 ## py -m pip install --upgrade pip
 ## py -m pip install ipykernel
 ## py -m pip install matplotlib
-## py -m pip install seaborn
+## py -m pip install scikit-learn
+## py -m pip install scikit-survival
 
 # Other Options
 ## pip install pandas
 ## pip3 install pandas
-## python -m pip install pandas
- 
+## python -m pip install pandas 
 
  
 #################################################
